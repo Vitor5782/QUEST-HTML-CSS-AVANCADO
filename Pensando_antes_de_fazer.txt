@@ -1,0 +1,15 @@
+Todo o body tem uma imagem de fundo
+uma div de imagem
+uma div com alguns elementos tais:
+h1
+p
+button
+um footter com 3 botões de rede sociais
+No footer do frontendmentor usar a font-size 11px
+	//REGRAS PARA FONTE:
+		font-family: 'Open Sans', sans-serif;
+		font-family: 'Poppins', sans-serif;
+	//
+Estilização dos elementos
+Primeiro temos que mudar o fundo do body por uma cor que está no var e uma img
+depois vamos fazer o famoso de cima na esquerda para baixo e direita

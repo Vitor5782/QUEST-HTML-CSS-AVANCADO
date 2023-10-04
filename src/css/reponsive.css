@@ -1,0 +1,26 @@
+@media (max-width:425px) {
+    main{
+        background: url(../images/bg-mobile.svg);
+        background-size: cover;
+    }
+    .icon-social{
+        display: block;
+    }
+    .hero{
+        display: flex;
+        flex-direction: column;
+    }
+    .hero .introducao{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .footer .icon-social ul{
+        flex-direction: row;
+        justify-content: center;
+        margin: 0 0 1rem;
+    }
+    .footer .icon-social li{
+        font-size: 1.5rem;
+    }
+}

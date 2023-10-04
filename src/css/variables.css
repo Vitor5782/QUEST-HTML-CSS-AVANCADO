@@ -1,0 +1,9 @@
+:root{
+    --bg-color:hsl(257, 40%, 49%);
+    --color-hover:hsl(300, 69%, 71%);
+    --color-front-end-mentor:hsl(228, 45%, 44%);
+    --color-font:#fff;
+    --bg-color-front-end-mentor:#000;
+    --font-family-heading:'Poppins', sans-serif;
+    --font-family-paragraph:'Open Sans', sans-serif;
+}
