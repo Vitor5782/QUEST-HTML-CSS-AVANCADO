@@ -30,8 +30,8 @@ Os usuários devem ser capazes de:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solução: [Github](https://github.com/Vitor5782/QUEST-HTML-CSS-AVANCADO)
+- Live Site URL: [GithubPages](https://vitor5782.github.io/QUEST-HTML-CSS-AVANCADO/)
 
 ## Como pensei ao construir:
 Todo o body tem uma imagem de fundo
