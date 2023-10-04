@@ -89,5 +89,5 @@ Aprendi a como utilizar o grid-areas e pude construir meu html de forma semantic
 
 ## Autor:
 
-- Frontend Mentor - [@Vitor5782](https://www.frontendmentor.io/profile/Vitor5782  target="_blank")
-- Github - [@Vitor5782](https://github.com/Vitor5782  target="_blank")
+- Frontend Mentor - [@Vitor5782](https://www.frontendmentor.io/profile/Vitor5782)
+- Github - [@Vitor5782](https://github.com/Vitor5782)
