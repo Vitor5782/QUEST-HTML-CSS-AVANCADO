@@ -62,8 +62,7 @@ main {
     cursor: pointer;
 }
 
-.introducao .botao:hover,
-.introducao .botao a:hover {
+.introducao .botao:hove{
     background-color: var(--color-hover);
     color: var(--color-font);
 }
