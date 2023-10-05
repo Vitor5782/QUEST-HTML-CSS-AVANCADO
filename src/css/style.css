@@ -60,9 +60,10 @@ main {
     transition: 0.5s ease-in-out;
     font-size: 1.5rem;
     cursor: pointer;
+    font-family: var(--font-family-paragraph);
 }
 
-.introducao .botao:hove{
+.introducao .botao:hover{
     background-color: var(--color-hover);
     color: var(--color-font);
 }
