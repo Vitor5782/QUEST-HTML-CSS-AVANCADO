@@ -12,9 +12,9 @@ main {
         "hero"
         "footer";
     height: 100vh;
+    font-family: var(--font-family-paragraph);
     background: url(../images/bg-desktop.svg) center center no-repeat;
     background-size: cover;
-    font-family: var(--font-family-paragraph);
 }
 
 /* LOGO */
@@ -27,7 +27,7 @@ main {
 .hero {
     grid-area: hero;
     display: flex;
-    margin: 40px;
+    margin: 4rem;
     align-items: flex-start;
     justify-content: center;
 }
@@ -53,9 +53,9 @@ main {
 .introducao .botao {
     color: var(--bg-color);
     border-radius: 40px;
-    margin: 40px;
-    width: 150px;
-    height: 50px;
+    margin: 4rem;
+    width: 15rem;
+    height: 5rem;
     box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
     transition: 0.5s ease-in-out;
     font-size: 1.5rem;
@@ -86,9 +86,7 @@ main {
 
 .icon-social li {
     margin: 0.4rem;
-    font-size: 3rem;
-    border-style: solid;
-    border-radius: 50%;
+    font-size: 2rem;
     color: var(--color-font);
     padding: 1rem;
     transition: 0.5s ease-in;
@@ -98,9 +96,16 @@ main {
 .icon-social a {
     color: var(--color-font);
     transition: 0.5s ease-in;
+    border: thin solid;
+    border-radius: 100%;
+    padding: 1rem;
 }
 
-.icon-social li:hover,
+.icon-social i{
+    text-align: center;
+    width: 20px;
+}
+
 .icon-social a:hover {
     color: var(--color-hover);
 }
